@@ -5,16 +5,19 @@
 # RESUMO SOBRE CRIAÇÃO DA API:
 #### API criada em:
 - BACKEND: NODEJS, EXPRESS;
+
 Dependências:
 Express;
 Mongoose;
 Concurrently;
 
 - BANCO DE DADOS: MONGODB (NOSQL);
+
 Utiliza banco de dados online (MLAB);
 Criação de models;
 
 - FRONTEND: REACTJS;
+
 Dependências:
 Axios;
 React-router-dom;
