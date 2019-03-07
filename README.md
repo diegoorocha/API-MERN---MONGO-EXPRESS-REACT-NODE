@@ -61,7 +61,9 @@ OBS: Note que a alteração foi realizada no campo FILIAL, onde o inicial era (S
 - Deletar usuário (id);
 ![image](https://user-images.githubusercontent.com/46031435/53961680-f4b9d600-40c7-11e9-9c59-63db1ceb4e14.png)
 OBS: Ao tentar excluir um usuário, para evitar problemas ao clicar sem querer, a confirmação será feita via MODAL!
+
 OBS1: Ao clicar em NÃO, a operação é cancelada e o usuário não é excluido.
+
 OBS2: Ao clicar em EXCLUIR, o usuário é excluido!
 
 ------------
